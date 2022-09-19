@@ -1,0 +1,12 @@
+D:\SourceCodes\netcore_Practice\EMSApp\EMS.DAL\bin\Debug\net6.0\EMS.DAL.deps.json
+D:\SourceCodes\netcore_Practice\EMSApp\EMS.DAL\bin\Debug\net6.0\EMS.DAL.dll
+D:\SourceCodes\netcore_Practice\EMSApp\EMS.DAL\bin\Debug\net6.0\EMS.DAL.pdb
+D:\SourceCodes\netcore_Practice\EMSApp\EMS.DAL\obj\Debug\net6.0\EMS.DAL.csproj.AssemblyReference.cache
+D:\SourceCodes\netcore_Practice\EMSApp\EMS.DAL\obj\Debug\net6.0\EMS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCodes\netcore_Practice\EMSApp\EMS.DAL\obj\Debug\net6.0\EMS.DAL.AssemblyInfoInputs.cache
+D:\SourceCodes\netcore_Practice\EMSApp\EMS.DAL\obj\Debug\net6.0\EMS.DAL.AssemblyInfo.cs
+D:\SourceCodes\netcore_Practice\EMSApp\EMS.DAL\obj\Debug\net6.0\EMS.DAL.csproj.CoreCompileInputs.cache
+D:\SourceCodes\netcore_Practice\EMSApp\EMS.DAL\obj\Debug\net6.0\EMS.DAL.dll
+D:\SourceCodes\netcore_Practice\EMSApp\EMS.DAL\obj\Debug\net6.0\refint\EMS.DAL.dll
+D:\SourceCodes\netcore_Practice\EMSApp\EMS.DAL\obj\Debug\net6.0\EMS.DAL.pdb
+D:\SourceCodes\netcore_Practice\EMSApp\EMS.DAL\obj\Debug\net6.0\ref\EMS.DAL.dll
